@@ -1,7 +1,7 @@
-Create DATABASE '2024-21-03T'
+//Create DATABASE '2024-21-03T'
 TEMPLATE=template0
 Encoding 'UTF-8'
-Connection LIMIT 100;
+Connection LIMIT 100;//
 
 SELECT * FROM demo;
 DROP TABLE tb_empregadoslopes
